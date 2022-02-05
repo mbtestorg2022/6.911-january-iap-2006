@@ -21,14 +21,99 @@ You may find it helpful to use a script in Praat that allows you to open multipl
 
 The following [script](https://lennes.github.io/spect/scripts/open_all_files_in_folder.praat) allows you to open all Praat-readable files in a directory.
 
-| EXERCISES | TOPICS |
-| --- | --- |
-| [Exercise 2.1]({{< baseurl >}}/pages/exercises/exercise_2-1) | Praat & H\* L-L% |
-| [Exercise 2.2]({{< baseurl >}}/pages/exercises/exercise_2-2) | L\* H-H% |
-| [Exercise 2.3]({{< baseurl >}}/pages/exercises/exercise_2-3) | More than One Pitch Accent in a Phrase |
-| [Exercise 2.4]({{< baseurl >}}/pages/exercises/exercise_2-4) | Other Phrase Accent-boundary Tone Combinations |
-| [Exercise 2.5]({{< baseurl >}}/pages/exercises/exercise_2-5) | L+H\* and L\*+H |
-| [Exercise 2.6]({{< baseurl >}}/pages/exercises/exercise2_6) | !H\* |
-| [Exercise 2.7]({{< baseurl >}}/pages/exercises/exercise2_7) | Bi-tonals with a !H Element |
-| [Exercise 2.8]({{< baseurl >}}/pages/exercises/exercise2_8) | 3 Breaks, and The L- and H- Phrase Accents |
-| [Exercise 2.9]({{< baseurl >}}/pages/exercises/exercise2_9) | The Downstepped High Phrase Accent (!H-)
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+EXERCISES
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Exercise 2.1]({{< baseurl >}}/pages/exercises/exercise_2-1)
+{{< tdclose >}}
+{{< tdopen >}}
+Praat & H\* L-L%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Exercise 2.2]({{< baseurl >}}/pages/exercises/exercise_2-2)
+{{< tdclose >}}
+{{< tdopen >}}
+L\* H-H%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Exercise 2.3]({{< baseurl >}}/pages/exercises/exercise_2-3)
+{{< tdclose >}}
+{{< tdopen >}}
+More than One Pitch Accent in a Phrase
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Exercise 2.4]({{< baseurl >}}/pages/exercises/exercise_2-4)
+{{< tdclose >}}
+{{< tdopen >}}
+Other Phrase Accent-boundary Tone Combinations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Exercise 2.5]({{< baseurl >}}/pages/exercises/exercise_2-5)
+{{< tdclose >}}
+{{< tdopen >}}
+L+H\* and L\*+H
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Exercise 2.6]({{< baseurl >}}/pages/exercises/exercise2_6)
+{{< tdclose >}}
+{{< tdopen >}}
+!H\*
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Exercise 2.7]({{< baseurl >}}/pages/exercises/exercise2_7)
+{{< tdclose >}}
+{{< tdopen >}}
+Bi-tonals with a !H Element
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Exercise 2.8]({{< baseurl >}}/pages/exercises/exercise2_8)
+{{< tdclose >}}
+{{< tdopen >}}
+3 Breaks, and The L- and H- Phrase Accents
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Exercise 2.9]({{< baseurl >}}/pages/exercises/exercise2_9)
+{{< tdclose >}}
+{{< tdopen >}}
+The Downstepped High Phrase Accent (!H-)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
